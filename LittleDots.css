@@ -1,0 +1,27 @@
+body {
+    font-size: small;
+    font-family: century_schoolbook, century;
+    color: black;
+    background-color: lightgray;
+    /*background-image: url(Images/FollowME_cover.jpg);*/
+}
+#newSingle {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    top: 10px;
+}
+a {
+    color: brown;
+}
+#mainText{
+    text-align: center;
+}
+h1{
+    font-size: large;
+    font-weight: bold;
+}
+#embeds{
+    display: flex;
+    justify-content: center;
+}
